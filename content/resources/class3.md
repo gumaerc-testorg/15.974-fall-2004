@@ -2,8 +2,13 @@
 content_type: resource
 description: These lecture notes contain the class agenda and assignments for the
   week.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-974-practical-leadership-fall-2004/5a445c86435c9308cb84f2cbc934b7fd_class3.pdf
+file: /media/courses/15-974-practical-leadership-fall-2004/5a445c86435c9308cb84f2cbc934b7fd_class3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: "Class Three \u2013 Communication"
 uid: 5a445c86-435c-9308-cb84-f2cbc934b7fd
