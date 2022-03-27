@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9d6dc808-ee97-e081-4b52-10cbea76a6ca
 resourcetype: Document
 title: "Class Five \u2013 Influencing Others"
 uid: 283a07ee-451c-a6da-bfcb-5ad05f4b93c0

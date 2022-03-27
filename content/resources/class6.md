@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9d6dc808-ee97-e081-4b52-10cbea76a6ca
 resourcetype: Document
 title: "Class Six \u2013 Decision Making"
 uid: 21c30847-350b-cd55-1c7f-07ed6d74f3c9

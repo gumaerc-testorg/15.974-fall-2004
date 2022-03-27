@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8a6dd7f1-2adb-d6b3-612f-eab4380c4959
 resourcetype: Document
 title: "Assignment for Class Three \u2013 Communication"
 uid: 53ce905c-fd27-c8b2-80e7-bef5836913ce

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9d6dc808-ee97-e081-4b52-10cbea76a6ca
 resourcetype: Document
 title: "Class Four \u2013 Situational Leadership"
 uid: 9082db45-a482-cc4d-e81e-12fd5feb9ff7

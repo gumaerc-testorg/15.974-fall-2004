@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8a6dd7f1-2adb-d6b3-612f-eab4380c4959
 resourcetype: Document
 title: "Assignment for Class Two \u2013 Leadership Frameworks"
 uid: ceb969a4-4d9c-beef-fef6-7950b480635f

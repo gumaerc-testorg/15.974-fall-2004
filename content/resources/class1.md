@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9d6dc808-ee97-e081-4b52-10cbea76a6ca
 resourcetype: Document
 title: "Class One \u2013 Introduction and Overview"
 uid: f4d215c9-827d-8a3a-eb49-f5f2a71b5726

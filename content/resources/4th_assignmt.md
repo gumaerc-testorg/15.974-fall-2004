@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8a6dd7f1-2adb-d6b3-612f-eab4380c4959
 resourcetype: Document
 title: 'Assignment for Class Five '
 uid: 468a53be-f461-5a46-2eff-613801778c90

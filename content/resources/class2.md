@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9d6dc808-ee97-e081-4b52-10cbea76a6ca
 resourcetype: Document
 title: "Class Two \u2013 Leadership Frameworks"
 uid: 83bdb11f-3227-a0ca-f0ca-a95c9f7fd21f

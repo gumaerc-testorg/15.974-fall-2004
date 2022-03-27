@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8a6dd7f1-2adb-d6b3-612f-eab4380c4959
 resourcetype: Document
 title: "Assignment for Class Four \u2013 Situational Leadership"
 uid: 01de26d8-b1cc-2cd6-6dfb-d1af752e7205
