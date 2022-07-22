@@ -6,6 +6,7 @@ file: /courses/15-974-practical-leadership-fall-2004/9082db45a482cc4de81e12fd5fe
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Class Four \u2013 Situational Leadership"
 uid: 9082db45-a482-cc4d-e81e-12fd5feb9ff7
 ---
 These lecture notes contain the class agenda and assignments for the week.
-
