@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the assignments for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 8a6dd7f1-2adb-d6b3-612f-eab4380c4959
 ---
@@ -22,7 +26,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Leadership Frameworks ([PDF]({{< baseurl >}}/resources/1st_assignmt))
+Leadership Frameworks ({{% resource_link ceb969a4-4d9c-beef-fef6-7950b480635f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -31,7 +35,7 @@ Leadership Frameworks ([PDF]({{< baseurl >}}/resources/1st_assignmt))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Communication ([PDF]({{< baseurl >}}/resources/2nd_assignmt))
+Communication ({{% resource_link 53ce905c-fd27-c8b2-80e7-bef5836913ce "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +44,7 @@ Communication ([PDF]({{< baseurl >}}/resources/2nd_assignmt))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Situational Leadership ([PDF]({{< baseurl >}}/resources/3rd_assignmt))
+Situational Leadership ({{% resource_link 01de26d8-b1cc-2cd6-6dfb-d1af752e7205 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +53,7 @@ Situational Leadership ([PDF]({{< baseurl >}}/resources/3rd_assignmt))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Influencing Others ([PDF]({{< baseurl >}}/resources/4th_assignmt))
+Influencing Others ({{% resource_link 468a53be-f461-5a46-2eff-613801778c90 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +62,7 @@ Influencing Others ([PDF]({{< baseurl >}}/resources/4th_assignmt))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Decision-making ([PDF]({{< baseurl >}}/resources/5th_assignmt))
+Decision-making ({{% resource_link 2d9eff61-9e25-4cdc-7d50-2703c1a1dfbb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

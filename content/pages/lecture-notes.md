@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the lecture notes for the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 9d6dc808-ee97-e081-4b52-10cbea76a6ca
 ---
@@ -25,7 +29,7 @@ SUBTOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction and Overview ([PDF]({{< baseurl >}}/resources/class1))
+Introduction and Overview ({{% resource_link f4d215c9-827d-8a3a-eb49-f5f2a71b5726 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Set the baseline. What understanding of leaders and leadership have each of us already acquired?  
@@ -39,7 +43,7 @@ Brief overview of the theories and themes in this course
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Leadership Frameworks ([PDF]({{< baseurl >}}/resources/class2))
+Leadership Frameworks ({{% resource_link 83bdb11f-3227-a0ca-f0ca-a95c9f7fd21f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Trait Theory  
@@ -57,7 +61,7 @@ Leadership Traits Role Play
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Communication ([PDF]({{< baseurl >}}/resources/class3))
+Communication ({{% resource_link 5a445c86-435c-9308-cb84-f2cbc934b7fd "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Different Communication Styles and Structures  
@@ -77,7 +81,7 @@ Giving/Receiving Feedback Role Play
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Situational Leadership ([PDF]({{< baseurl >}}/resources/class4))
+Situational Leadership ({{% resource_link 9082db45-a482-cc4d-e81e-12fd5feb9ff7 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Explore Leadership Types  
@@ -93,7 +97,7 @@ Situational Role Play
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Influencing Others ([PDF]({{< baseurl >}}/resources/class5))
+Influencing Others ({{% resource_link 283a07ee-451c-a6da-bfcb-5ad05f4b93c0 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Leading without Authority  
@@ -109,7 +113,7 @@ Leading from Any Chair Role Play
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Decision-making ([PDF]({{< baseurl >}}/resources/class6))
+Decision-making ({{% resource_link 21c30847-350b-cd55-1c7f-07ed6d74f3c9 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Decision-making Models  

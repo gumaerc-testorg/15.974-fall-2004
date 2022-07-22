@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides bibliographic citations for course readings, organized
+  by session, topic, and subtopic.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 49bfd355-e194-0355-e73b-d5ff44ecce73
 ---
