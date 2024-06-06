@@ -2,6 +2,7 @@
 content_type: resource
 description: These lecture notes contain an introduction to the course and an overview.
 file: /courses/15-974-practical-leadership-fall-2004/f4d215c9827d8a3aeb49f5f2a71b5726_class1.pdf
+file_size: 39043
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
