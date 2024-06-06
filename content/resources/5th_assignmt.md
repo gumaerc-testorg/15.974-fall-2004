@@ -2,6 +2,7 @@
 content_type: resource
 description: A reading assignment and instructions to prepare for a role-play exercise.
 file: /courses/15-974-practical-leadership-fall-2004/2d9eff619e254cdc7d502703c1a1dfbb_5th_assignmt.pdf
+file_size: 9564
 file_type: application/pdf
 learning_resource_types:
 - Assignments
