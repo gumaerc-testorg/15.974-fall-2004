@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A self-assessment assignment and a reading assignment.
-file: /courses/15-974-practical-leadership-fall-2004/ceb969a44d9cbeeffef67950b480635f_1st_assignmt.pdf
+file: /ol-ocw-studio-app/courses/15-974-practical-leadership-fall-2004/ceb969a44d9cbeeffef67950b480635f_1st_assignmt.pdf
 file_size: 21861
 file_type: application/pdf
 learning_resource_types:
