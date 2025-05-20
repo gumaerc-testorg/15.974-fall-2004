@@ -2,7 +2,7 @@
 content_type: resource
 description: These lecture notes contain the class agenda and assignments for the
   week.
-file: /ol-ocw-studio-app/courses/15-974-practical-leadership-fall-2004/9082db45a482cc4de81e12fd5feb9ff7_class4.pdf
+file: /courses/15-974-practical-leadership-fall-2004/9082db45a482cc4de81e12fd5feb9ff7_class4.pdf
 file_size: 30765
 file_type: application/pdf
 learning_resource_types:
