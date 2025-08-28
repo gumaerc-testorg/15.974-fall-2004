@@ -2,7 +2,7 @@
 content_type: resource
 description: A self-assessment assignment, a reading assignment, and instructions
   for keeping a leadership journal.
-file: /courses/15-974-practical-leadership-fall-2004/53ce905cfd27c8b280e7bef5836913ce_2nd_assignmt.pdf
+file: /ol-ocw-studio-app/courses/15-974-practical-leadership-fall-2004/53ce905cfd27c8b280e7bef5836913ce_2nd_assignmt.pdf
 file_size: 10523
 file_type: application/pdf
 learning_resource_types:
